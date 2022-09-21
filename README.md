@@ -1,16 +1,20 @@
 ### Hi there 👋
+<ul>
+<li> 😃 i'm Yassine Ahabri</li>
+<li> 😎 4 years experience Front-End Web Developer</li>
+<li> 📚 Hardvard CS50 Computer Science Program Graduate</li>
+<li> 👨🏻‍💻 Supervisor at SINGWORKS S.A.R.L (Software developement company)</li>
+<li> 👨🏻‍🎓 Now Studying : 
+  <ul>
+    <li> Python for backend-Web developement and AI </li>
+    <li> Graphic Design</li>
+  </ul></li>
+<li> 🦾 Hobiies : 
+  <ul>
+    <li> Bodybuilding </li>
+    <li> Web Developement</li>
+    <li> Moding</li>
+    <li> Video Games</li>
+  </ul></li>
+<li> 👯 I’m looking to collaborate on anything, message me and i'll gladly collaborate</li> 
 
-<!--
-**Sainahab/Sainahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
