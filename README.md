@@ -3,7 +3,7 @@
 <li> 😃 i'm Yassine Ahabri</li>
 <li> 😎 Senior Front-End Developer</li>
 <li> 📚 Hardvard CS50 Computer Science Program Graduate</li>
-<li> 👨🏻‍💻 Supervisor at SINGWORKS S.A.R.L (Software developement company)</li>
+<li> 👨🏻‍💻 TeamLeader at SINGWORKS S.A.R.L (Software developement company)</li>
 <li> 👨🏻‍🎓 Now Studying : 
   <ul>
     <li> Python for backend-Web developement and AI </li>
