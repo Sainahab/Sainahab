@@ -6,8 +6,8 @@
 <li> 👨🏻‍💻 TeamLeader at SINGWORKS S.A.R.L (Software developement company)</li>
 <li> 👨🏻‍🎓 Now Studying : 
   <ul>
-    <li> Python for backend-Web developement and AI </li>
-    <li> Graphic Design</li>
+    <li> PHP / Laravel for backend-Web development </li>
+    <li> Flutter for mobile Development</li>
   </ul></li>
 <li> 🦾 Hobiies : 
   <ul>
